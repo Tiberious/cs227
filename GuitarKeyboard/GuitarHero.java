@@ -3,9 +3,8 @@
  *  Execution:    java  GuitarHeroLite
  *  Dependencies: StdAudio.java StdDraw.java GuitarString.java
  *
- *  Plays two guitar strings (concert A and concert C) when the user
- *  types the lowercase letters 'a' and 'c', respectively in the 
- *  standard drawing window.
+ *  when the user types one of the characters from keyboard then
+ *  a concert pitch will play.
  *
  ****************************************************************************/
 

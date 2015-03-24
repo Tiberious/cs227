@@ -1,21 +1,4 @@
 
-/*************************************************************************
- * Name(s)      : 
- * NetID(s)     : 
- * Precept(s)   :
- *
- * Dependencies :
- * Description  : 
- *  
- *  This is a template file for GuitarString.java. It lists the constructors
- *  and methods you need, along with descriptions of what they're supposed
- *  to do.
- *  
- *  Note: it won't compile until you fill in the constructors and methods
- *        (or at least commment out the ones whose return type is non-void).
- *
- *****************************************************************************/
-
 public class GuitarString {
 
     private RingBuffer buffer; // ring buffer
